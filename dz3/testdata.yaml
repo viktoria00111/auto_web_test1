@@ -1,0 +1,9 @@
+rl: https://test-stand.gb.ru/
+url_login: https://test-stand.gb.ru/login
+browser: chrome
+sleep_time: 3
+
+login: '1stud'
+pswd: 'ef080ce410'
+
+title: Page Object

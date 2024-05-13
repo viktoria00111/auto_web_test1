@@ -1,0 +1,15 @@
+address: https://test-stand.gb.ru
+browser: Chrome
+sleep_time: 1
+
+login: 1stud
+pswd: ef080ce410
+
+title: WebDriver
+description: Selenium WebDriver - это программный интерфейс
+content: Думайте о WebDriver как о посреднике
+
+url: https://test-stand.gb.ru/gateway/login
+api_address: https://test-stand.gb.ru/api/posts
+address_post: https://test-stand.gb.ru/gateway/posts
+not_me_title: check-post
